@@ -1,5 +1,7 @@
 <h1 align='center'>[ESX] sheriff job</a></h1><p align='center'><b> - <a href='https://documentation.esx-framework.org/legacy/installation'>Documentation</a></b></h5>
 
+This works in ESX Legacy 1.10 
+
 This resource for ESX adds sheriff armories, vehicle garages and ability for cops to search, handcuff people and much more.
 
 ### Requirements
