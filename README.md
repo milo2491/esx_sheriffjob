@@ -34,11 +34,11 @@ fvm install --save --folder=esx esx-framework/esx_sheriffjob
 ### Using Git
 ```
 cd resources
-git clone https://github.com/esx-framework/esx_sheriffjob [esx]/esx_sheriffjob
+git clone https://github.com/milo2491/esx_sheriffjob [esx]/esx_sheriffjob
 ```
 
 ### Manually
-- Download https://github.com/esx-framework/esx_sheriffjob/archive/master.zip
+- Download https://github.com/milo2491/esx_sheriffjob/archive/master.zip
 - Put it in the `[esx]` directory
 
 
